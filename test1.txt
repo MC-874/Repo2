@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6CA9-A527
+
+ Directory of C:\Users\Max\Desktop\MyProject
+
+03/26/2021  02:07 PM    <DIR>          .
+03/26/2021  02:07 PM    <DIR>          ..
+03/26/2021  02:07 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  609,688,350,720 bytes free
